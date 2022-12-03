@@ -12,7 +12,6 @@
   "action": {
     "default_popup": "index.html",
     "default_title": "Get Plato's advice!"
-  }
-  
+  },
   "permissions": ["contextMenus", "tabs", "storage"]
 }
